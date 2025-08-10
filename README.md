@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Monad Wallet Demo
 
-First, run the development server:
+Đây là dự án ví Monad được xây dựng với [Next.js](https://nextjs.org) và [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## 🚀 Bắt đầu nhanh
+
+Chạy server phát triển:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
+# hoặc
+
+# hoặc
 pnpm dev
-# or
+# hoặc
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Sau đó mở [http://localhost:3000](http://localhost:3000) trên trình duyệt để trải nghiệm giao diện ví Monad.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Bạn có thể chỉnh sửa giao diện tại file `src/app/page.tsx`. Trang sẽ tự động cập nhật khi bạn lưu file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🦄 Tính năng nổi bật
+- Kết nối ví Monad nhanh chóng, giao diện hiện đại, màu sắc bắt mắt (Bootstrap + hiệu ứng gradient)
+- Hiển thị địa chỉ ví và số dư MON trực tiếp sau khi kết nối
+- Tự động lấy số dư MON từ blockchain Monad
+- Tối ưu cho cả desktop và mobile
 
-## Learn More
+## 📚 Tài liệu tham khảo
+- [Tài liệu Monad](https://docs.monad.xyz)
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Bootstrap](https://getbootstrap.com/)
+- [wagmi](https://wagmi.sh/)
+- [viem](https://viem.sh/)
 
-To learn more about Next.js, take a look at the following resources:
+## 🌐 Triển khai
+Bạn có thể triển khai dự án này lên [Vercel](https://vercel.com/) hoặc bất kỳ nền tảng nào hỗ trợ Next.js.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> Dự án này dành cho demo ví Monad, mọi đóng góp và phản hồi đều được hoan nghênh!
