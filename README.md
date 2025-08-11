@@ -1,6 +1,6 @@
 <h1 align="center">Monad Wallet Demo</h1>
 
-![Monad Wallet Demo Screenshot](https://private-user-images.githubusercontent.com/69153374/476372780-13a72052-90fb-4db7-85da-307470f32b44.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ4NDY0MTYsIm5iZiI6MTc1NDg0NjExNiwicGF0aCI6Ii82OTE1MzM3NC80NzYzNzI3ODAtMTNhNzIwNTItOTBmYi00ZGI3LTg1ZGEtMzA3NDcwZjMyYjQ0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEwVDE3MTUxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIyM2NhMzM5ZDZmNmNiNGQ3YzkxMjM0NmMyMTZmN2U5NGUwMTIzYmQyMjAwZTVlODIzNjg5ZDRjNTFhNzBiMDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rcDmcoW7aGssUyrM2TPAzjzRN2Yl_XdEO17Y3PenWy4)
+![Monad Wallet Demo Screenshot](https://raw.githubusercontent.com/taicutm/monad-wallet-dapp/refs/heads/main/public/demo.png)
 
 Đây là dự án ví Monad được xây dựng với [Next.js](https://nextjs.org) và [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
